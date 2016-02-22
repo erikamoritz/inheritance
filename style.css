@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+h2 {
+  font-weight: normal;
+  font-family: "indie flower", cursive;
+}
+
+h3 {
+  font-weight: normal;
+  font-weight: "indie flower", cursive;
+}
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 32px;
+}
+#para1 {
+  font-weight: 100;
+  font-family: "Raleway", sans-serif;
+}
+
+#para2 {
+  font-weight: 200;
+  font-family: "Raleway", sans-serif;
+}
+
+#para3 {
+  font-weight: 300;
+  font-family: "Raleway", sans-serif;
+}
+
+#para4 {
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+}
